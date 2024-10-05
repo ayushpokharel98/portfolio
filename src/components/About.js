@@ -15,7 +15,7 @@ export default function AboutSection() {
                 </article>
                 
                 <article className="sm:flex-1" data-aos="fade-right">
-                    <p className="text-lg sm:text-xl lg:text-2xl">
+                    <p className="text-lg text-justify sm:text-xl lg:text-2xl">
                         I am a Django developer with experience in building web applications. I specialize in creating scalable solutions with a focus on responsive design.
                     </p>
                 </article>
